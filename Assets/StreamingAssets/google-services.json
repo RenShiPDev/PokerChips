@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "778021113710",
+    "project_id": "afi2wd",
+    "storage_bucket": "afi2wd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778021113710:android:2e75679df8fb0419e1bb7f",
+        "android_client_info": {
+          "package_name": "day.win2.win2day.apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778021113710-g2f6qh25mraetsfkli57k7tnash2r410.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYUQi3ubO3McUvh0oGLd9vuVXDhcZfLaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778021113710-g2f6qh25mraetsfkli57k7tnash2r410.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
